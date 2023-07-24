@@ -1,7 +1,0 @@
-┌ Info: 2023-07-20 14:41:15 Watching ["/Users/pere/genie/genieawesome/VowelCount"]
-└ @ GenieAutoReload /Users/pere/.julia/packages/GenieAutoReload/IuBCb/src/GenieAutoReload.jl:19
-┌ Info: 2023-07-20 14:41:17 
-│ Web Server starting at http://127.0.0.1:8000 - press Ctrl/Cmd+C to stop the server. 
-└ @ Genie.Server /Users/pere/.julia/packages/Genie/XpFvB/src/Server.jl:161
-┌ Info: 2023-07-20 14:41:17 Listening on: 127.0.0.1:8000, thread id: 1
-└ @ HTTP.Servers /Users/pere/.julia/packages/HTTP/nn2yB/src/Servers.jl:366
